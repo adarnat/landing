@@ -1,0 +1,19 @@
+.footer {
+  background-color: #2c2b2b;
+text-align: center;
+  align-items: center;
+  justify-content: space-between;
+padding: 40px;
+}
+
+.footer-links a {
+  font-size: 30px;
+  color: #1EDD88;
+  padding: 10px
+}
+.footer-copyright p {
+  color: #626363;
+}
+.footer-copyright .fa-heart {
+  color: #D23333;
+}
